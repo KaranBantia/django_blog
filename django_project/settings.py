@@ -25,8 +25,8 @@ SECRET_KEY = '@7e=cogndjp)v-8-7f#umnhpvzc%c=t0czh6uo5mpm8%mf2up)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['mykbblogapp.herokuapp.com']
-ALLOWED_HOSTS = []
+#ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
